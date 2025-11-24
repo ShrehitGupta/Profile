@@ -1,6 +1,6 @@
 # SHREHIT GUPTA
-Phone No.: +91 - 8123957600 ||
-Email: shrehit@gmail.com
+**Phone No.:** +91 - 8123957600 ||
+**Email:** _shrehit@gmail.com_
 
 ### Career Objective: 
 To pursue a challenging and growth-oriented career in the field of technical writing, where I can contribute my knowledge, experience, and analytical skills to achieve the best for the organization and my individual growth.
@@ -64,62 +64,62 @@ Related Experience: 2 years 10 months (May 2019 to March 2022)<br>
 **Related Experience:** 1 year 7 months (Oct 2014 to May 2016)<br>
 
 #### Responsibilities
-•	Revision and creation of the instructions-based tasks of the Aircraft Maintenance Manual (AMM) and System Descriptive Section (SDS).
-•	Revision and creation of the serviceable parts-based figures of Aircraft Illustrated Parts Catalogue (AIPC). 
-•	Impact Analysis of change drivers like Modification Summary (ModSum), Manual Change Request (MCR), and its incorporation in manuals with the help of Engineering Drawing Release Notes (EDRN) and other valid engineering documents of Bombardier Aerospace.
-•	Creation and updating of Aircraft Maintenance Tasks by use of ATA iSpec2200 standards and AECMA Simplified English in Arbor Text Editor. 
-•	Adding and modifying parts information in SAP workbench using material master transaction codes – MM01, MM02 & MM03.
-•	Involved in doing the Quality checks for the work done by other members of the team.
-•	Involved in training and mentoring the new members of the team.
+-	Revision and creation of the instructions-based tasks of the Aircraft Maintenance Manual (AMM) and System Descriptive Section (SDS).
+-	Revision and creation of the serviceable parts-based figures of Aircraft Illustrated Parts Catalogue (AIPC). 
+-	Impact Analysis of change drivers like Modification Summary (ModSum), Manual Change Request (MCR), and its incorporation in manuals with the help of Engineering Drawing Release Notes (EDRN) and other valid engineering documents of Bombardier Aerospace.
+-	Creation and updating of Aircraft Maintenance Tasks by use of ATA iSpec2200 standards and AECMA Simplified English in Arbor Text Editor. 
+-	Adding and modifying parts information in SAP workbench using material master transaction codes – MM01, MM02 & MM03.
+-	Involved in doing the Quality checks for the work done by other members of the team.
+-	Involved in training and mentoring the new members of the team.
 
-Writing and Communication Skills
-•	Clarity and Precision: Ability to convey complex information clearly and concisely.
-•	Grammar and Style: Strong command of grammar, punctuation, and style guidelines.
-•	Audience Analysis: Understanding the audience's needs and tailoring content accordingly.
-•	Writing Standards: Understanding of DITA, iSpec2200, Simplified Technical English, and MSTP. 
-
-
-Tools and Software
-•	Authoring Tools: Familiarity with tools like Microsoft Word, Confluence, Google Docs, Arbor text Editor, X-metal Editor, and Adobe FrameMaker.
-•	Content Management Systems (CMS): Experience with CMS platforms like JIRA, SharePoint, and Windchill.
-•	Version Control Systems: Understanding of systems like Git for managing changes in documents.
-•	Graphic Tools: Basic skills in tools like PTC’s Creo parametric, Adobe Illustrator or Snagit for creating and editing images and screenshots.
-
-Research Skills
-•	Information Gathering: Ability to research and understand complex subjects through interviews, documentation, and other resources.
-•	Technical Accuracy: Ensuring the technical correctness of the content by consulting experts and validating information.
-
-Project Management
-•	Organization: Managing multiple projects, meeting deadlines, and coordinating with SMEs, Stake holders and other team members.
-•	Version Control: Keeping track of document versions and updates.
-
-Programming and Markup Languages
-•	HTML/CSS/XML: Basic knowledge for web-based documentation.
-•	Markdown: Familiarity with Markdown for writing formatted text.
-
-Data Analysis and Presentation
-•	Data Interpretation: Ability to analyze and present data effectively in charts, graphs, and tables.
-•	Visualization Tools: Experience with tools like Microsoft Excel, PowerPoint, or similar for data representation.
-
-Awards and Recognition
-•	Spot Award – Received small win/spot award for service excellence in documentation team (January 2025 & October 2022).
-•	The Employee of the Month – Received employee of the month award for service excellence (December 2019 & October 2021).
-•	Star of the Month – Got star of the month award in November 2018 for service excellence in Duplicate Story Removal Project.
-•	Recognition – Recognized by John Deere TCI head for understanding complex processes and advancing the SBOM project single-handedly (Nov-2016).
-•	Spot Award – Service excellence (July 2015 and December 2015).
-
-Educational Qualifications
-•	Graduate from Aeronautical Society of India (AeSI) in Aeromechanical Engineering.
-
-Training
-•	Certified SAFe® Scrum Master from Scaled Agile Inc.
-•	Obtained Tear down and reassembling training on a three-cylinder FT4 diesel engine. 
-•	Obtained proficient level training on parts catalog structure, work management tool, and Microsoft excel.
-•	FEA analysis of structural components using Nastran and Patran.
-
-I, hereby declare that the above-mentioned information is true to the best of my knowledge.
+### Writing and Communication Skills
+-	Clarity and Precision: Ability to convey complex information clearly and concisely.
+-	Grammar and Style: Strong command of grammar, punctuation, and style guidelines.
+-	Audience Analysis: Understanding the audience's needs and tailoring content accordingly.
+-	Writing Standards: Understanding of DITA, iSpec2200, Simplified Technical English, and MSTP. 
 
 
+### Tools and Software
+-	Authoring Tools: Familiarity with tools like Microsoft Word, Confluence, Google Docs, Arbor text Editor, X-metal Editor, and Adobe FrameMaker.
+-	Content Management Systems (CMS): Experience with CMS platforms like JIRA, SharePoint, and Windchill.
+-	Version Control Systems: Understanding of systems like Git for managing changes in documents.
+-	Graphic Tools: Basic skills in tools like PTC’s Creo parametric, Adobe Illustrator or Snagit for creating and editing images and screenshots.
+
+### Research Skills
+-	Information Gathering: Ability to research and understand complex subjects through interviews, documentation, and other resources.
+-	Technical Accuracy: Ensuring the technical correctness of the content by consulting experts and validating information.
+
+### Project Management
+-	Organization: Managing multiple projects, meeting deadlines, and coordinating with SMEs, Stake holders and other team members.
+-	Version Control: Keeping track of document versions and updates.
+
+### Programming and Markup Languages
+-	HTML/CSS/XML: Basic knowledge for web-based documentation.
+-	Markdown: Familiarity with Markdown for writing formatted text.
+
+### Data Analysis and Presentation
+-	Data Interpretation: Ability to analyze and present data effectively in charts, graphs, and tables.
+-	Visualization Tools: Experience with tools like Microsoft Excel, PowerPoint, or similar for data representation.
+
+### Awards and Recognition
+-	Spot Award – Received small win/spot award for service excellence in documentation team (January 2025 & October 2022).
+-	The Employee of the Month – Received employee of the month award for service excellence (December 2019 & October 2021).
+-	Star of the Month – Got star of the month award in November 2018 for service excellence in Duplicate Story Removal Project.
+-	Recognition – Recognized by John Deere TCI head for understanding complex processes and advancing the SBOM project single-handedly (Nov-2016).
+-	Spot Award – Service excellence (July 2015 and December 2015).
+
+### Educational Qualifications
+-	Graduate from Aeronautical Society of India (AeSI) in Aeromechanical Engineering.
+
+### Training
+-	Certified SAFe® Scrum Master from Scaled Agile Inc.
+-	Obtained Tear down and reassembling training on a three-cylinder FT4 diesel engine. 
+-	Obtained proficient level training on parts catalog structure, work management tool, and Microsoft excel.
+-	FEA analysis of structural components using Nastran and Patran.
+
+I, hereby declare that the above-mentioned information is true to the best of my knowledge. <br>
 
 
-Date: October 15th,2025										           (SHREHIT GUPTA)
+
+
+**Date: ** October 15th,2025										           (SHREHIT GUPTA)
