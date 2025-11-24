@@ -116,10 +116,4 @@ Related Experience: 2 years 10 months (May 2019 to March 2022)<br>
 -	Obtained Tear down and reassembling training on a three-cylinder FT4 diesel engine. 
 -	Obtained proficient level training on parts catalog structure, work management tool, and Microsoft excel.
 -	FEA analysis of structural components using Nastran and Patran.
-
-I, hereby declare that the above-mentioned information is true to the best of my knowledge. <br>
-
-
-
-| :--- | ---: |
-| **Date:** November 24th,2025 | (SHREHIT GUPTA) |
+## Thank you!!
