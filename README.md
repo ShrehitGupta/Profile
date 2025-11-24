@@ -1,16 +1,16 @@
 # SHREHIT GUPTA
-Phone No. +91 - 8123957600
-Email shrehit@gmail.com
+Phone No.: +91 - 8123957600
+Email: shrehit@gmail.com
 
 ### Career Objective: 
 To pursue a challenging and growth-oriented career in the field of technical writing, where I can contribute my knowledge, experience, and analytical skills to achieve the best for the organization and my individual growth.
 
-### Total Experience: 11 years
+#### Total Experience: 11 years
 
-Current Position: Associate Manager
-Organization: Siemens Gamesa Renewable Power Pvt Ltd 
-Location: Bangalore
-Related Experience: 3 years 7 months (March 2022 to till Date)
+**Current Position:** Associate Manager
+**Organization:** Siemens Gamesa Renewable Power Pvt Ltd 
+**Location:** Bangalore
+**Related Experience:** 3 years 7 months (March 2022 to till Date)
 
 ###Responsibilities
 •	Creating and revising user documentation for SCADA based Wind turbine operating software (WPS) using MS-Word and XMetal Editor while adhering to the company’s quality standards.
