@@ -7,7 +7,7 @@ To pursue a challenging and growth-oriented career in the field of technical wri
 ### Experience
 #### Total Experience: 11 years
 
-**Current Position:** Associate Manager
+**Current Position:** Associate Manager </br>
 **Organization:** Siemens Gamesa Renewable Power Pvt Ltd 
 **Location:** Bangalore
 **Related Experience:** 3 years 7 months (March 2022 to till Date)
