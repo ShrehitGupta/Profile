@@ -116,4 +116,5 @@ Related Experience: 2 years 10 months (May 2019 to March 2022)<br>
 -	Obtained Tear down and reassembling training on a three-cylinder FT4 diesel engine. 
 -	Obtained proficient level training on parts catalog structure, work management tool, and Microsoft excel.
 -	FEA analysis of structural components using Nastran and Patran.
+<br>
 ## Thank you!!
