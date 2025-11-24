@@ -1,10 +1,11 @@
-#SHREHIT GUPTA
+# SHREHIT GUPTA
 Phone No. +91 - 8123957600
 Email shrehit@gmail.com
 
-Career Objective: To pursue a challenging and growth-oriented career in the field of technical writing, where I can contribute my knowledge, experience, and analytical skills to achieve the best for the organization and my individual growth.
+### Career Objective: 
+To pursue a challenging and growth-oriented career in the field of technical writing, where I can contribute my knowledge, experience, and analytical skills to achieve the best for the organization and my individual growth.
 
-###Total Experience: 11 years
+### Total Experience: 11 years
 
 Current Position: Associate Manager
 Organization: Siemens Gamesa Renewable Power Pvt Ltd 
