@@ -1,5 +1,5 @@
 # SHREHIT GUPTA
-Phone No.: +91 - 8123957600
+Phone No.: +91 - 8123957600 ||
 Email: shrehit@gmail.com
 
 ### Career Objective: 
@@ -9,8 +9,8 @@ To pursue a challenging and growth-oriented career in the field of technical wri
 
 **Current Position:** Associate Manager <br>
 **Organization:** Siemens Gamesa Renewable Power Pvt Ltd <br>
-**Location:** Bangalore</br>
-**Related Experience:** 3 years 7 months (March 2022 to till Date)</br>
+**Location:** Bangalore<br>
+**Related Experience:** 3 years 7 months (March 2022 to till Date)<br>
 
 #### Responsibilities
 - Creating and revising user documentation for SCADA based Wind turbine operating software (WPS) using MS-Word and XMetal Editor while adhering to the company’s quality standards.
@@ -23,47 +23,47 @@ To pursue a challenging and growth-oriented career in the field of technical wri
 - Continuous Improvement: Facilitating retrospectives to reflect on past performance, identify areas for improvement, and implement changes to enhance team effectiveness and efficiency. Encouraging a culture of continuous learning and adaptation.
 
 ### 3rd Job Position: Associate
-Organization: Sahajanand Technologies Pvt. Ltd. (STPL)
-Location: Surat
-Related Experience: 2 years 10 months (May 2019 to March 2022)
+Organization: Sahajanand Technologies Pvt. Ltd. (STPL)<br>
+Location: Surat<br>
+Related Experience: 2 years 10 months (May 2019 to March 2022)<br>
 
 #### Responsibilities
-•	Creation and revision of the operation and maintenance manual of diamond processing laser machines using MS-Word while maintaining the highest quality as per the company’s in-house standards. 
-•	Preparation of clear and accurate technical documents such as user guides, configuration manual, site preparation manual, software operating manual, etc. of the diamond processing laser machines utilizing working knowledge of STE (Simplified Technical English).
-•	Working with internal teams to obtain an in-depth understanding of the laser machines and 3D printers to ensure that product functionality is well documented.
-•	File decision change request (DCR) for product improvement. 
-•	Edit and upload DCR related engineering documents such as engineering drawing, mechanical BOM, bought-out lists, wiring diagram, and electronic BOM to Data management system (DMS) to centralize the new design across all departments. 
-•	Creation and maintaining controlled documents related to the new product development (NPD) such as business case report, feasibility report, development report, testing, and validation report, and product handover report.
-•	Plan and implement marketing and advertising activities from time to time including press releases, hoardings, and articles.
-•	Creation of competitive product analysis report of the upcoming products to create a marketing strategy and prelaunch evaluation of the product.
-•	Coordinate with the creative designing team, and content writer to create advertising materials like social media campaigns, newsletters, and text messages.
-•	Analyzing and timely resolving the problems reported by the customers while referring to manuals.
-•	Performing self-reviews and implementing new strategies for marketing based on the data insights of the last campaign. 
+-	Creation and revision of the operation and maintenance manual of diamond processing laser machines using MS-Word while maintaining the highest quality as per the company’s in-house standards. 
+-	Preparation of clear and accurate technical documents such as user guides, configuration manual, site preparation manual, software operating manual, etc. of the diamond processing laser machines utilizing working knowledge of STE (Simplified Technical English).
+-	Working with internal teams to obtain an in-depth understanding of the laser machines and 3D printers to ensure that product functionality is well documented.
+-	File decision change request (DCR) for product improvement. 
+-	Edit and upload DCR related engineering documents such as engineering drawing, mechanical BOM, bought-out lists, wiring diagram, and electronic BOM to Data management system (DMS) to centralize the new design across all departments. 
+-	Creation and maintaining controlled documents related to the new product development (NPD) such as business case report, feasibility report, development report, testing, and validation report, and product handover report.
+-	Plan and implement marketing and advertising activities from time to time including press releases, hoardings, and articles.
+-	Creation of competitive product analysis report of the upcoming products to create a marketing strategy and prelaunch evaluation of the product.
+-	Coordinate with the creative designing team, and content writer to create advertising materials like social media campaigns, newsletters, and text messages.
+-	Analyzing and timely resolving the problems reported by the customers while referring to manuals.
+-	Performing self-reviews and implementing new strategies for marketing based on the data insights of the last campaign. 
 
-2nd Job Position: Technical Author II
-Organization: GGS Information Services
-Location: Pune
-Related Experience: 3 years (May 2016 to May 2019)
+### 2nd Job Position: Technical Author II
+**Organization:** GGS Information Services <br>
+**Location:** Pune<br>
+**Related Experience:** 3 years (May 2016 to May 2019)<br>
 
-Responsibilities
-•	Creation and revision of the parts catalog of John Deere’s diesel engines as per the latest engineering in XML documents using PTC Arbor text editor and maintaining the highest quality as per the company’s in-house standards.
-•	Creation and revision of illustrations as per the latest engineering using the Creo-parametric tool.
-•	Voluntarily accepted a new project for the creation and revision of the Service Bill of material (SBOM), which is used in planning and forecasting of service parts (spare parts inventory planning) for upcoming and in-service engines and transaxles. 
-•	Undertaken cleanup project of old parts catalogs to minimize errors and outdated data which helped in providing a better user experience to customers. 
-•	Created standards and processes to put raster images in illustrations wherever needed.
-•	Analysis of different engineering inputs like ECMs and ECNs and incorporating those changes in affected parts catalogs.
-•	Analyzing and timely resolving the problems reported by the dealers and customers while ordering spare parts from catalogs.
-•	Checking and collecting information on spare parts from SAP systems using different transaction codes like MM03, CC03, CS03, CS06, ZCS12, ZCBOMS, and CS12 and updating this information in part catalogs.
-•	Involved in training and mentoring the new members of the team for understanding catalog structures, processes, and how to work with different tools like Creo-Parametric, Windchill PDM, Web parts audit, and MS-excel efficiently. 
-•	Involved in the automation of repetitive processes which resulted in better efficiency and target using auto-hotkey software.
-•	Distribution of work packages to fellow team members and maintaining deliverables. 
+#### Responsibilities
+-	Creation and revision of the parts catalog of John Deere’s diesel engines as per the latest engineering in XML documents using PTC Arbor text editor and maintaining the highest quality as per the company’s in-house standards.
+-	Creation and revision of illustrations as per the latest engineering using the Creo-parametric tool.
+-	Voluntarily accepted a new project for the creation and revision of the Service Bill of material (SBOM), which is used in planning and forecasting of service parts (spare parts inventory planning) for upcoming and in-service engines and transaxles. 
+-	Undertaken cleanup project of old parts catalogs to minimize errors and outdated data which helped in providing a better user experience to customers. 
+-	Created standards and processes to put raster images in illustrations wherever needed.
+-	Analysis of different engineering inputs like ECMs and ECNs and incorporating those changes in affected parts catalogs.
+-	Analyzing and timely resolving the problems reported by the dealers and customers while ordering spare parts from catalogs.
+-	Checking and collecting information on spare parts from SAP systems using different transaction codes like MM03, CC03, CS03, CS06, ZCS12, ZCBOMS, and CS12 and updating this information in part catalogs.
+-	Involved in training and mentoring the new members of the team for understanding catalog structures, processes, and how to work with different tools like Creo-Parametric, Windchill PDM, Web parts audit, and MS-excel efficiently. 
+-	Involved in the automation of repetitive processes which resulted in better efficiency and target using auto-hotkey software.
+-	Distribution of work packages to fellow team members and maintaining deliverables. 
 
-1st Job Position: Consultant (Technical Author) 
-Organization: Capgemini India Pvt. Ltd.
-Location: Bangalore
-Related Experience: 1 year 7 months (Oct 2014 to May 2016)
+### 1st Job Position: Consultant (Technical Author) 
+**Organization:** Capgemini India Pvt. Ltd. <br>
+**Location:** Bangalore<br>
+**Related Experience:** 1 year 7 months (Oct 2014 to May 2016)<br>
 
-Responsibilities
+#### Responsibilities
 •	Revision and creation of the instructions-based tasks of the Aircraft Maintenance Manual (AMM) and System Descriptive Section (SDS).
 •	Revision and creation of the serviceable parts-based figures of Aircraft Illustrated Parts Catalogue (AIPC). 
 •	Impact Analysis of change drivers like Modification Summary (ModSum), Manual Change Request (MCR), and its incorporation in manuals with the help of Engineering Drawing Release Notes (EDRN) and other valid engineering documents of Bombardier Aerospace.
