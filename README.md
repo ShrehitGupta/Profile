@@ -4,7 +4,7 @@ Email: shrehit@gmail.com
 
 ### Career Objective: 
 To pursue a challenging and growth-oriented career in the field of technical writing, where I can contribute my knowledge, experience, and analytical skills to achieve the best for the organization and my individual growth.
-
+### Experience
 #### Total Experience: 11 years
 
 **Current Position:** Associate Manager
@@ -12,7 +12,7 @@ To pursue a challenging and growth-oriented career in the field of technical wri
 **Location:** Bangalore
 **Related Experience:** 3 years 7 months (March 2022 to till Date)
 
-###Responsibilities
+#### Responsibilities
 •	Creating and revising user documentation for SCADA based Wind turbine operating software (WPS) using MS-Word and XMetal Editor while adhering to the company’s quality standards.
 •	Creating clear and accurate technical documents for the SCADA-based web interface (MySite360) of renewable energy devices, such as user manuals, configuration manuals, installation manuals, upgrade guides, customer edition documents, functional description documents of features, and so on, using working knowledge of STE (Simplified Technical English), MSTP (Microsoft Style-guide for Technical Publication) and DDLC (Document Development Life Cycle).
 •	As a designated peer reviewer, advocating for the importance of documentation quality within the organization. Helping the team prioritize activities that contribute to improving the overall quality, accuracy, and usability of documentation for every release cycle.
@@ -22,12 +22,12 @@ To pursue a challenging and growth-oriented career in the field of technical wri
 •	Mentoring on Writing Best Practices: Providing guidance and mentorship to technical writers on writing best practices, style guides, and documentation standards. Help the team maintain consistency, clarity, and quality across all documentation deliverables.
 •	Continuous Improvement: Facilitating retrospectives to reflect on past performance, identify areas for improvement, and implement changes to enhance team effectiveness and efficiency. Encouraging a culture of continuous learning and adaptation.
 
-3rd Job Position: Associate
+### 3rd Job Position: Associate
 Organization: Sahajanand Technologies Pvt. Ltd. (STPL)
 Location: Surat
 Related Experience: 2 years 10 months (May 2019 to March 2022)
 
-Responsibilities
+#### Responsibilities
 •	Creation and revision of the operation and maintenance manual of diamond processing laser machines using MS-Word while maintaining the highest quality as per the company’s in-house standards. 
 •	Preparation of clear and accurate technical documents such as user guides, configuration manual, site preparation manual, software operating manual, etc. of the diamond processing laser machines utilizing working knowledge of STE (Simplified Technical English).
 •	Working with internal teams to obtain an in-depth understanding of the laser machines and 3D printers to ensure that product functionality is well documented.
