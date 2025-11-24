@@ -8,19 +8,19 @@ To pursue a challenging and growth-oriented career in the field of technical wri
 #### Total Experience: 11 years
 
 **Current Position:** Associate Manager </br>
-**Organization:** Siemens Gamesa Renewable Power Pvt Ltd 
-**Location:** Bangalore
-**Related Experience:** 3 years 7 months (March 2022 to till Date)
+**Organization:** Siemens Gamesa Renewable Power Pvt Ltd </br>
+**Location:** Bangalore</br>
+**Related Experience:** 3 years 7 months (March 2022 to till Date)</br>
 
 #### Responsibilities
 - Creating and revising user documentation for SCADA based Wind turbine operating software (WPS) using MS-Word and XMetal Editor while adhering to the company’s quality standards.
-- •	Creating clear and accurate technical documents for the SCADA-based web interface (MySite360) of renewable energy devices, such as user manuals, configuration manuals, installation manuals, upgrade guides, customer edition documents, functional description documents of features, and so on, using working knowledge of STE (Simplified Technical English), MSTP (Microsoft Style-guide for Technical Publication) and DDLC (Document Development Life Cycle).
-- •	As a designated peer reviewer, advocating for the importance of documentation quality within the organization. Helping the team prioritize activities that contribute to improving the overall quality, accuracy, and usability of documentation for every release cycle.
-•	Demonstrating Servant Leadership: Adopting a servant leadership approach by serving the needs of the documentation team, facilitating communication, and fostering a collaborative and empowered work environment to support the documentation team in achieving PI (Program Increment) goals.
-•	Facilitating Scrum Events: Conducting and facilitating Scrum ceremonies such as Daily Team Sync Meetings, Iteration Planning, Iteration Reviews, and Iteration Retrospectives. Ensuring these meetings are productive, focused, and time bound.
-•	Coordinating with Product Teams: Acting as a liaison between the technical writing team and software development teams to ensure alignment on documentation requirements, updates, and changes to guarantee that product functionality is correctly documented.
-•	Mentoring on Writing Best Practices: Providing guidance and mentorship to technical writers on writing best practices, style guides, and documentation standards. Help the team maintain consistency, clarity, and quality across all documentation deliverables.
-•	Continuous Improvement: Facilitating retrospectives to reflect on past performance, identify areas for improvement, and implement changes to enhance team effectiveness and efficiency. Encouraging a culture of continuous learning and adaptation.
+- Creating clear and accurate technical documents for the SCADA-based web interface (MySite360) of renewable energy devices, such as user manuals, configuration manuals, installation manuals, upgrade guides, customer edition documents, functional description documents of features, and so on, using working knowledge of STE (Simplified Technical English), MSTP (Microsoft Style-guide for Technical Publication) and DDLC (Document Development Life Cycle).
+- As a designated peer reviewer, advocating for the importance of documentation quality within the organization. Helping the team prioritize activities that contribute to improving the overall quality, accuracy, and usability of documentation for every release cycle.
+- Demonstrating Servant Leadership: Adopting a servant leadership approach by serving the needs of the documentation team, facilitating communication, and fostering a collaborative and empowered work environment to support the documentation team in achieving PI (Program Increment) goals.
+- Facilitating Scrum Events: Conducting and facilitating Scrum ceremonies such as Daily Team Sync Meetings, Iteration Planning, Iteration Reviews, and Iteration Retrospectives. Ensuring these meetings are productive, focused, and time bound.
+- Coordinating with Product Teams: Acting as a liaison between the technical writing team and software development teams to ensure alignment on documentation requirements, updates, and changes to guarantee that product functionality is correctly documented.
+- Mentoring on Writing Best Practices: Providing guidance and mentorship to technical writers on writing best practices, style guides, and documentation standards. Help the team maintain consistency, clarity, and quality across all documentation deliverables.
+- Continuous Improvement: Facilitating retrospectives to reflect on past performance, identify areas for improvement, and implement changes to enhance team effectiveness and efficiency. Encouraging a culture of continuous learning and adaptation.
 
 ### 3rd Job Position: Associate
 Organization: Sahajanand Technologies Pvt. Ltd. (STPL)
